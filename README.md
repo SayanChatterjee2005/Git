@@ -1,2 +1,2 @@
 # Weather-App-
-This Project Is learning for API uses 
+This Project Is learning for API uses.
